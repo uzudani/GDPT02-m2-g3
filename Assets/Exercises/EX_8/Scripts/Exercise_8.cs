@@ -10,7 +10,6 @@ public class Exercise_8 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // Ho un dubbio: Se il voto dovesse essere compreso tra due numeri, come calcola il voto?
         if (FinalVote == 10)
         {
             Debug.Log("A+");
@@ -19,7 +18,7 @@ public class Exercise_8 : MonoBehaviour
         {
             Debug.Log("A");
         }
-        else if (FinalVote == 8.7)
+        else if (FinalVote == 8 || FinalVote == 7)
         {
             Debug.Log("B");
         }

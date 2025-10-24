@@ -269,7 +269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d87659ab734cc045b818fb3943ce079, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FinalVote: 4
+  FinalVote: 7
 --- !u!4 &1841869819
 Transform:
   m_ObjectHideFlags: 0
